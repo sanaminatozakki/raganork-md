@@ -1,11 +1,11 @@
 {
-	"name": "Deploy",
-	"description": "Wa Bot.",
+	"name": "Endiless",
+	"description": "xnxxbot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/sanaminatozakki/raganork-md",
 	"stack": "container",
     "env": { 
         "HANDLERS": {

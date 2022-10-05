@@ -1,6 +1,6 @@
-# _Raganork-multi-device_
-## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
-#### _Looking for non multi device version? Get it [here](https://github.com/souravkl11/raganork-legacy)_
+REGENORK OOMFIYO
+BISHAMIKKDNDA THAZHATHE LINKIL CLICK OOMBUKA!
+
 
 endiless https://heroku.com/deploy?template=https://github.com/sanaminatozakki/raganork-md
 <div align="center">
